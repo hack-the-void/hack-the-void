@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Joshua-py
-- 👀 I’m interested in cyber-security and python fan
-- 🌱 I’m currently learning cyber-security
-- ⚡ Fun fact: I was a 3D Artist for some few years
+- 👋 Hi, I’m @TheVoid
+- 👀 I’m into cybersecurity and CTFs
+- 🌱 Currently learning more about cybersecurity
+- 🐍 I love Python
 
 <!---
 Joshua-py/Joshua-py is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
