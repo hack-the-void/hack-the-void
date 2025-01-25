@@ -49,10 +49,6 @@ Technology has always been my passion, driving me to dive deep into the world of
 
 ---
 
-## 💡 Philosophy
-_"Security is not a destination, but a continuous journey."_
-
----
 
 Stay connected for more updates and let's collaborate! 🚀
 🔗 [LinkedIn](#)
